@@ -19,8 +19,8 @@
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ali-Irtza&color=00E5FF&style=flat-square&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00E5FF?style=flat-square&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Contact-a78bfa?style=flat-square&logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00E5FF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-irtza-a2827a27b/)
+[![Email](https://img.shields.io/badge/Email-Contact-a78bfa?style=flat-square&logo=gmail&logoColor=white)](aliirtza738@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Ali--Irtza-7c3aed?style=flat-square&logo=github&logoColor=white)](https://github.com/Ali-Irtza)
 
 </div>
