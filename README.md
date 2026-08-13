@@ -9,19 +9,19 @@
 <br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=700&size=40&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&height=80&lines=HI%2C+I'M+ALI+IRTZA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=700&size=40&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=80&lines=HI%2C+I'M+ALI+IRTZA" alt="Typing SVG" />
 </a>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Full-Stack+Applications;LLMs+%7C+RAG+Pipelines+%7C+Machine+Learning;Next.js+%7C+FastAPI+%7C+Supabase+%7C+Python;Build.+Ship.+Scale." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Full-Stack+Applications;LLMs+%7C+RAG+Pipelines+%7C+Machine+Learning;Next.js+%7C+FastAPI+%7C+Supabase+%7C+Python;Build.+Ship.+Scale." alt="Typing SVG" />
 </a>
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ali-Irtza&color=00E5FF&style=flat-square&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00E5FF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-irtza-a2827a27b/)
-[![Email](https://img.shields.io/badge/Email-Contact-a78bfa?style=flat-square&logo=gmail&logoColor=white)](mailto:aliirtza738@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Ali--Irtza-7c3aed?style=flat-square&logo=github&logoColor=white)](https://github.com/Ali-irtza)
+![Profile Views](https://komarev.com/ghpvc/?username=Ali-Irtza&color=00FF41&style=flat-square&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00FF41?style=flat-square&logo=linkedin&logoColor=black)](#)
+[![Email](https://img.shields.io/badge/Email-Contact-00FF41?style=flat-square&logo=gmail&logoColor=black)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-Ali--Irtza-00FF41?style=flat-square&logo=github&logoColor=black)](https://github.com/Ali-Irtza)
 
 </div>
 
@@ -49,66 +49,77 @@ Distributed systems · RAG pipelines · AI/ML research · Full-stack products
 
 <br>
 
-<div align="center">
-
-## ⚡ ABOUT THE SYSTEM
-
-</div>
-
-- 🎓 Computer Science graduate specializing in **AI/ML**
-- 🛠️ Independently building consumer & B2B SaaS products end-to-end
-- 🧠 Deep interest in **distributed systems**, **AI/ML research**, and **full-stack engineering**
-- 🔐 Final Year Project: an AI-driven vulnerability detection platform fine-tuning LLMs for code security
-- 💼 Freelance web development experience delivering production sites for real clients
-- 📡 Currently exploring: Wi-Fi CSI-based motion sensing
-
-<br>
-
-<div align="center">
-
-## 🧬 TECH STACK
+## 🧠 ABOUT ME
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td width="60%" valign="top">
 
-**AI / ML**
-<br>
-![Python](https://img.shields.io/badge/-Python-00E5FF?style=flat-square&logo=python&logoColor=black)
-![PyTorch](https://img.shields.io/badge/-PyTorch-a78bfa?style=flat-square&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LLMs%2FRAG-7c3aed?style=flat-square&logo=OpenAI&logoColor=white)
+```
+> cat about_me.txt
+```
+
+I'm a Computer Science graduate specializing in **AI/ML**, based in Pakistan, and I build things end-to-end — from the model to the shipped product.
+
+- 🛠️ Independently building consumer & B2B SaaS products, from architecture to deployment
+- 🔐 Final Year Project: an AI-driven C/C++ vulnerability detection platform — fine-tuned **Qwen2.5-Coder** with **QLoRA** across a two-stage pipeline (binary classification + CWE type prediction) on a merged ~315K-row dataset (ICVul + DiverseVul), with AST features via `tree-sitter`
+- 📊 Built a distributed anomaly detection pipeline on NASA HTTP server logs using **Hadoop HDFS**, **Apache Spark**, K-Means, and Isolation Forest — achieved a ~0.99 silhouette score
+- 💼 Freelance web development experience delivering production sites for real clients
+- 🧬 Deep interest in **distributed systems**, **AI/ML research**, and **full-stack engineering**
+- 📡 Currently exploring: Wi-Fi CSI-based motion sensing
+
+```
+> echo $STATUS
+Compiling ideas into production code...
+```
 
 </td>
-<td valign="top" width="33%">
+<td width="40%" valign="top" align="center">
 
-**Full-Stack**
-<br>
-![Next.js](https://img.shields.io/badge/-Next.js-00E5FF?style=flat-square&logo=next.js&logoColor=black)
-![FastAPI](https://img.shields.io/badge/-FastAPI-a78bfa?style=flat-square&logo=fastapi&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-7c3aed?style=flat-square&logo=supabase&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-**Tools**
-<br>
-![Git](https://img.shields.io/badge/-Git-00E5FF?style=flat-square&logo=git&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-a78bfa?style=flat-square&logo=docker&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-7c3aed?style=flat-square&logo=tailwindcss&logoColor=white)
+<img src="avatar.svg" width="320" alt="Ali Irtza animated terminal avatar"/>
 
 </td>
 </tr>
 </table>
 
+<br>
+
+## 🧬 TECH STACK
+
+<div align="center">
+
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,bash&theme=dark" />
+
+<br><br>
+
+**AI / ML**
+<br>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv&theme=dark" />
+<img src="https://img.shields.io/badge/-LLMs-00FF41?style=flat-square&logo=OpenAI&logoColor=black" />
+<img src="https://img.shields.io/badge/-RAG_Pipelines-00FF41?style=flat-square&logo=databricks&logoColor=black" />
+<img src="https://img.shields.io/badge/-QLoRA_FineTuning-00FF41?style=flat-square&logo=huggingface&logoColor=black" />
+
+<br><br>
+
+**Full-Stack & Backend**
+<br>
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,fastapi,flask,html,css,tailwind&theme=dark" />
+
+<br><br>
+
+**Data & Infra**
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,docker,git,github,linux,vscode&theme=dark" />
+<img src="https://img.shields.io/badge/-Hadoop-00FF41?style=flat-square&logo=apachehadoop&logoColor=black" />
+<img src="https://img.shields.io/badge/-Apache_Spark-00FF41?style=flat-square&logo=apachespark&logoColor=black" />
+
 </div>
 
 <br>
 
-<div align="center">
-
 ## 🚀 FEATURED PROJECTS
-
-</div>
 
 <table>
 <tr>
@@ -149,26 +160,38 @@ Actively building and shipping — check pinned repos for the latest.
 
 <br>
 
-<div align="center">
-
 ## 📊 GITHUB ANALYTICS
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ali-Irtza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=a78bfa&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Irtza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=c9d1d9" width="35%" />
+<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Irtza&theme=tokyonight&hide_border=true&background=0d1117&ring=00E5FF&fire=a78bfa&currStreakLabel=00E5FF" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ali-Irtza&show_icons=true&theme=github-dark-green&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Irtza&layout=compact&theme=github-dark-green&hide_border=true&bg_color=000000&title_color=00FF41&text_color=c9d1d9" width="35%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Irtza&theme=github-dark-green&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="60%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-Irtza&theme=react-dark&bg_color=000000&color=00FF41&line=00FF41&point=ffffff&hide_border=true" width="90%" />
 
 </div>
 
 <br>
 
+## 🐍 CONTRIBUTION SNAKE
+
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/Ali-Irtza/Ali-Irtza/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Contribution snake animation"/>
+
+</div>
+
+<br>
 
 ## 📡 TRANSMISSION CHANNELS
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/-Gmail-a78bfa?style=for-the-badge&logo=gmail&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/-GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali-Irtza)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black)](#)
+[![Gmail](https://img.shields.io/badge/-Gmail-00FF41?style=for-the-badge&logo=gmail&logoColor=black)](#)
+[![GitHub](https://img.shields.io/badge/-GitHub-00FF41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Ali-Irtza)
 
 <br>
 
