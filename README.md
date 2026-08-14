@@ -33,28 +33,34 @@
 
 <br>
 
-🧠 ABOUT ME
+## 🧠 ABOUT ME
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="54%" valign="middle">
 
+```text
 > cat about_me.txt
+```
 
-"I don't build for the sake of building. I build because most problems deserve better solutions than they're getting."
+I don't build for the sake of building. I build because most problems deserve better solutions than they're getting.
+
 That's the difference between someone who "knows AI" and someone who actually ships AI-driven products into the real world. I've done both sides of that gap: the deep technical work (fine-tuning models, building ML pipelines, wrestling with production-grade RAG systems) and the business side (pricing, payments, user experience, the boring-but-critical stuff that makes a product actually usable).
-Most people can write code. Fewer people can turn an idea into something that works, scales, and makes sense as a business. That's the part I care about not just "does it run," but "does it hold up."
 
-I move fast, I own outcomes, and I don't need a team of five to get something out the door. If you're looking for someone who can take a rough idea and turn it into a real, working product that's the work I want.
+Most people can write code. Fewer people can turn an idea into something that works, scales, and makes sense as a business. That's the part I care about — not just "does it run," but "does it hold up."
 
-Currently open to freelance projects and full time roles where I can do exactly that.
+I move fast, I own outcomes, and I don't need a team of five to get something out the door. If you're looking for someone who can take a rough idea and turn it into a real, working product — that's the work I want.
 
+Currently open to **freelance projects** and **full-time roles** where I can do exactly that.
+
+```text
 > echo $STATUS
 Turning difficult problems into systems that work.
+```
 
 </td>
 
-<td width="42%" valign="top" align="center">
+<td width="46%" valign="middle" align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="about-dark.svg">
@@ -67,78 +73,69 @@ Turning difficult problems into systems that work.
 </table>
 <br>
 
-🧬 TECH STACK
+## 🧬 TECH STACK
 
 <div align="center">
 
-Languages
+**Languages**
 <br>
 <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,bash&theme=dark" />
 
 <br><br>
 
-AI / ML
+**AI / ML**
 <br>
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv&theme=dark" />
-<img src="https://img.shields.io/badge/-LLMs-F5A623?style=flat-square&logo=OpenAI&logoColor=0B0904" />
-<img src="https://img.shields.io/badge/-RAG_Pipelines-F5A623?style=flat-square&logo=databricks&logoColor=0B0904" />
-<img src="https://img.shields.io/badge/-QLoRA_FineTuning-F5A623?style=flat-square&logo=huggingface&logoColor=0B0904" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda,matlab&theme=dark" />
 
 <br><br>
 
-Full-Stack & Backend
+**Full-Stack & Backend**
 <br>
 <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,fastapi,flask,html,css,tailwind&theme=dark" />
 
 <br><br>
 
-Data & Infra
+**Data & Infra**
 <br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,docker,git,github,linux,vscode&theme=dark" />
-<img src="https://img.shields.io/badge/-Hadoop-F5A623?style=flat-square&logo=apachehadoop&logoColor=0B0904" />
-<img src="https://img.shields.io/badge/-Apache_Spark-F5A623?style=flat-square&logo=apachespark&logoColor=0B0904" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,docker,git,github,linux,vscode,kafka,elasticsearch,redis&theme=dark" />
 
 </div>
 
 <br>
 
-🚀 FEATURED PROJECTS
+## 🚀 FEATURED PROJECTS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-🛡️ SecureGuard Pro
+### 🛡️ SecureGuard Pro
+**Final Year Project** — AI-driven C/C++ vulnerability detection platform. Fine-tunes Qwen2.5-Coder via QLoRA in a two-stage pipeline for binary classification + CWE type prediction, trained on a merged ~315K-row dataset (ICVul + DiverseVul) with AST features via tree-sitter.
 
-Final Year Project — AI-driven C/C++ vulnerability detection platform. Fine-tunes Qwen2.5-Coder via QLoRA in a two-stage pipeline for binary classification + CWE type prediction, trained on a merged ~315K-row dataset (ICVul + DiverseVul) with AST features via tree-sitter.
-
-Python LLM Fine-Tuning QLoRA tree-sitter
+`Python` `LLM Fine-Tuning` `QLoRA` `tree-sitter`
 
 </td>
 <td width="50%" valign="top">
 
-🏠 Proptify
-
+### 🏠 Proptify
 B2B marketplace selling exclusive property-owner insurance leads to licensed agents across all 50 US states. Tiered pricing, dispute resolution, Stripe Checkout, admin 2FA, IP allowlisting, and audit logging.
 
-Next.js Supabase Stripe Security
+`Next.js` `Supabase` `Stripe` `Security`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-📄 InsureConnects
+### 🩺 MediBot
+AI-powered medical chatbot built on a Retrieval-Augmented Generation pipeline — grounds every answer in a curated medical knowledge base instead of relying on raw model recall, cutting down hallucinated responses. Handles symptom-based Q&A, contextual follow-ups, and cites the source passages behind each answer.
 
-Consumer-facing insurance lead generation site — sibling brand feeding qualified leads into Proptify. Home & Auto quote flows with TCPA-compliant legal pages.
-
-Next.js Tailwind shadcn/ui Supabase
+`Python` `LLM` `RAG` `Vector DB`
 
 </td>
 <td width="50%" valign="top">
 
-🔭 More on the way
-
+### 🔭 More on the way
 Actively building and shipping — check pinned repos for the latest.
 
 </td>
@@ -147,22 +144,22 @@ Actively building and shipping — check pinned repos for the latest.
 
 <br>
 
-📊 GITHUB ANALYTICS
+## 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ali-Irtza&show_icons=true&theme=github-dark-green&hide_border=true&bg_color=000000&title_color=F5A623&icon_color=F5A623&text_color=FFF3DC" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Irtza&layout=compact&theme=github-dark-green&hide_border=true&bg_color=000000&title_color=F5A623&text_color=FFF3DC" width="35%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ali-Irtza&show_icons=true&hide_border=true&bg_color=0B0904&title_color=F5A623&icon_color=F5A623&text_color=FFF3DC&ring_color=F5A623" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Irtza&layout=compact&hide_border=true&bg_color=0B0904&title_color=F5A623&text_color=FFF3DC" width="35%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Irtza&theme=github-dark-green&hide_border=true&background=000000&ring=F5A623&fire=F5A623&currStreakLabel=F5A623" width="60%" />
+<img src="https://streak-stats.demolab.com/?user=Ali-Irtza&hide_border=true&background=0B0904&ring=F5A623&fire=F5A623&currStreakLabel=F5A623&currStreakNum=FFF3DC&sideNums=FFF3DC&sideLabels=FFF3DC&dates=FFD166&border=F5A623" width="60%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-Irtza&theme=react-dark&bg_color=000000&color=F5A623&line=F5A623&point=ffffff&hide_border=true" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-Irtza&bg_color=0B0904&color=F5A623&line=F5A623&point=FFD166&area_color=F5A623&hide_border=true" width="90%" />
 
 </div>
 
 <br>
 
-🐍 CONTRIBUTION SNAKE
+## 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -172,7 +169,7 @@ Actively building and shipping — check pinned repos for the latest.
 
 <br>
 
-📡 TRANSMISSION CHANNELS
+## 📡 TRANSMISSION CHANNELS
 
 <div align="center">
 
@@ -188,6 +185,6 @@ Actively building and shipping — check pinned repos for the latest.
 
 <br>
 
-> connection established. thanks for stopping by.
+`> connection established. thanks for stopping by.`
 
 </div>
