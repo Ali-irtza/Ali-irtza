@@ -41,29 +41,13 @@
 
 > cat about_me.txt
 
-I'm a Computer Science graduate focused on AI/ML and full-stack engineering. I build intelligent products end-to-end — turning a real problem into a system that can be designed, engineered, tested, deployed, and improved.
+"I don't build for the sake of building. I build because most problems deserve better solutions than they're getting."
+That's the difference between someone who "knows AI" and someone who actually ships AI-driven products into the real world. I've done both sides of that gap: the deep technical work (fine-tuning models, building ML pipelines, wrestling with production-grade RAG systems) and the business side (pricing, payments, user experience, the boring-but-critical stuff that makes a product actually usable).
+Most people can write code. Fewer people can turn an idea into something that works, scales, and makes sense as a business. That's the part I care about not just "does it run," but "does it hold up."
 
-I work best where AI meets product engineering. I can take an idea, understand what actually needs to be solved, choose the right architecture, build the intelligence behind it, connect the full stack, and turn it into something people can use.
+I move fast, I own outcomes, and I don't need a team of five to get something out the door. If you're looking for someone who can take a rough idea and turn it into a real, working product that's the work I want.
 
-What I bring
-
-🧠 Applied AI/ML — LLM applications, RAG pipelines, fine-tuning, NLP, computer vision, and practical machine learning
-
-🏗️ End-to-end engineering — frontend, backend APIs, databases, authentication, integrations, deployment, and the systems connecting them
-
-⚙️ Systems mindset — architecture, performance, scalability, reliability, security, and maintainability are part of the solution, not afterthoughts
-
-🔬 Problem-solving & research — I break difficult problems into measurable pieces, experiment with the right approach, and turn successful experiments into usable systems
-
-🚀 Ownership — I don't stop at a prototype; I focus on getting the product to a reliable, production-ready state
-
-How I create value
-
-Understand → Architect → Build → Validate → Ship → Improve
-
-Whether the goal is an AI feature, an intelligent SaaS product, an automation system, or a complete web application, I bring the ability to work across the layers instead of treating them as separate problems.
-
-My approach is simple: understand the problem deeply, engineer the right solution, and make it useful in the real world.
+Currently open to freelance projects and full time roles where I can do exactly that.
 
 > echo $STATUS
 Turning difficult problems into systems that work.
