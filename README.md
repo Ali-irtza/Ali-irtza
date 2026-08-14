@@ -33,68 +33,67 @@
 
 <br>
 
-## 🧠 ABOUT ME
+🧠 ABOUT ME
 
 <table>
 <tr>
 <td width="58%" valign="top">
 
-```text
 > cat about_me.txt
-```
 
-I'm a **Computer Science graduate and AI/ML-focused full-stack builder** who turns complex ideas into practical software that people can actually use.
+I'm a Computer Science graduate focused on AI/ML and full-stack engineering. I build intelligent products end-to-end — turning a real problem into a system that can be designed, engineered, tested, deployed, and improved.
 
-I don't just build models or write interfaces in isolation. I work across the stack — understanding the problem, designing the architecture, building the intelligence, connecting the product, and taking it toward production.
+I work best where AI meets product engineering. I can take an idea, understand what actually needs to be solved, choose the right architecture, build the intelligence behind it, connect the full stack, and turn it into something people can use.
 
-### What I bring
+What I bring
 
-- 🧠 **AI/ML engineering** — LLMs, RAG pipelines, model fine-tuning, NLP, computer vision, and applied machine learning
-- ⚙️ **Full-stack execution** — modern frontend, backend APIs, databases, authentication, integrations, and deployment
-- 🏗️ **Systems thinking** — I care about architecture, scalability, reliability, security, and the engineering decisions behind the product
-- 🔬 **Research mindset** — I enjoy taking unfamiliar problems, breaking them down, experimenting, measuring results, and turning what works into a usable system
-- 🚀 **Ownership** — from the first idea to the final implementation, I can take responsibility for turning a requirement into a working product
+🧠 Applied AI/ML — LLM applications, RAG pipelines, fine-tuning, NLP, computer vision, and practical machine learning
 
-### How I work
+🏗️ End-to-end engineering — frontend, backend APIs, databases, authentication, integrations, deployment, and the systems connecting them
 
-**Understand → Design → Build → Test → Ship → Improve**
+⚙️ Systems mindset — architecture, performance, scalability, reliability, security, and maintainability are part of the solution, not afterthoughts
 
-My goal is simple: **solve the actual problem, not just complete the technical task.**
+🔬 Problem-solving & research — I break difficult problems into measurable pieces, experiment with the right approach, and turn successful experiments into usable systems
 
-Whether you need an AI feature, an intelligent backend, a complete web application, or a system that connects all of these pieces together, I aim to build it with the same mindset I use for my own products — **clean architecture, useful intelligence, reliable execution, and room to scale.**
+🚀 Ownership — I don't stop at a prototype; I focus on getting the product to a reliable, production-ready state
 
-```text
+How I create value
+
+Understand → Architect → Build → Validate → Ship → Improve
+
+Whether the goal is an AI feature, an intelligent SaaS product, an automation system, or a complete web application, I bring the ability to work across the layers instead of treating them as separate problems.
+
+My approach is simple: understand the problem deeply, engineer the right solution, and make it useful in the real world.
+
 > echo $STATUS
-Turning ideas into systems that work.
-```
+Turning difficult problems into systems that work.
 
 </td>
 
 <td width="42%" valign="top" align="center">
 
-<img src="avatar.svg" width="390" alt="Ali Irtza animated developer terminal avatar"/>
-
-<br>
-
-<sub><b>AI • SYSTEMS • FULL-STACK</b></sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="about-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="about-light.svg">
+  <img src="about-dark.svg" width="100%" alt="Ali Irtza animated developer terminal profile"/>
+</picture>
 
 </td>
 </tr>
 </table>
-
 <br>
 
-## 🧬 TECH STACK
+🧬 TECH STACK
 
 <div align="center">
 
-**Languages**
+Languages
 <br>
 <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,bash&theme=dark" />
 
 <br><br>
 
-**AI / ML**
+AI / ML
 <br>
 <img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv&theme=dark" />
 <img src="https://img.shields.io/badge/-LLMs-F5A623?style=flat-square&logo=OpenAI&logoColor=0B0904" />
@@ -103,13 +102,13 @@ Turning ideas into systems that work.
 
 <br><br>
 
-**Full-Stack & Backend**
+Full-Stack & Backend
 <br>
 <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,fastapi,flask,html,css,tailwind&theme=dark" />
 
 <br><br>
 
-**Data & Infra**
+Data & Infra
 <br>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,docker,git,github,linux,vscode&theme=dark" />
 <img src="https://img.shields.io/badge/-Hadoop-F5A623?style=flat-square&logo=apachehadoop&logoColor=0B0904" />
@@ -119,39 +118,43 @@ Turning ideas into systems that work.
 
 <br>
 
-## 🚀 FEATURED PROJECTS
+🚀 FEATURED PROJECTS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ SecureGuard Pro
-**Final Year Project** — AI-driven C/C++ vulnerability detection platform. Fine-tunes Qwen2.5-Coder via QLoRA in a two-stage pipeline for binary classification + CWE type prediction, trained on a merged ~315K-row dataset (ICVul + DiverseVul) with AST features via tree-sitter.
+🛡️ SecureGuard Pro
 
-`Python` `LLM Fine-Tuning` `QLoRA` `tree-sitter`
+Final Year Project — AI-driven C/C++ vulnerability detection platform. Fine-tunes Qwen2.5-Coder via QLoRA in a two-stage pipeline for binary classification + CWE type prediction, trained on a merged ~315K-row dataset (ICVul + DiverseVul) with AST features via tree-sitter.
+
+Python LLM Fine-Tuning QLoRA tree-sitter
 
 </td>
 <td width="50%" valign="top">
 
-### 🏠 Proptify
+🏠 Proptify
+
 B2B marketplace selling exclusive property-owner insurance leads to licensed agents across all 50 US states. Tiered pricing, dispute resolution, Stripe Checkout, admin 2FA, IP allowlisting, and audit logging.
 
-`Next.js` `Supabase` `Stripe` `Security`
+Next.js Supabase Stripe Security
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📄 InsureConnects
+📄 InsureConnects
+
 Consumer-facing insurance lead generation site — sibling brand feeding qualified leads into Proptify. Home & Auto quote flows with TCPA-compliant legal pages.
 
-`Next.js` `Tailwind` `shadcn/ui` `Supabase`
+Next.js Tailwind shadcn/ui Supabase
 
 </td>
 <td width="50%" valign="top">
 
-### 🔭 More on the way
+🔭 More on the way
+
 Actively building and shipping — check pinned repos for the latest.
 
 </td>
@@ -160,7 +163,7 @@ Actively building and shipping — check pinned repos for the latest.
 
 <br>
 
-## 📊 GITHUB ANALYTICS
+📊 GITHUB ANALYTICS
 
 <div align="center">
 
@@ -175,7 +178,7 @@ Actively building and shipping — check pinned repos for the latest.
 
 <br>
 
-## 🐍 CONTRIBUTION SNAKE
+🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -185,7 +188,7 @@ Actively building and shipping — check pinned repos for the latest.
 
 <br>
 
-## 📡 TRANSMISSION CHANNELS
+📡 TRANSMISSION CHANNELS
 
 <div align="center">
 
@@ -201,6 +204,6 @@ Actively building and shipping — check pinned repos for the latest.
 
 <br>
 
-`> connection established. thanks for stopping by.`
+> connection established. thanks for stopping by.
 
 </div>
